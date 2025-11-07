@@ -25,6 +25,12 @@ Model Performance
 | AdaBoost          | 0.72      | 
 | XGBoost           | 0.76      |
 
+Sumbissions : 
+- Here I have three submissions each from a different model. The accuracy of each submission is as follows :
+                               1. submission - 0.77272
+                               2. submission - 0.76076
+                               3. submission - 0.78229
+
 How to Run
 1. Clone the repo  
    ```bash
